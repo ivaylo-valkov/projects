@@ -1,4 +1,4 @@
 projects
 ========
 
-My projects are hosted at Gitorious
+My projects are hosted at Gitorious: https://gitorious.org/~valkov
